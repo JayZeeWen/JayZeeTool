@@ -23,3 +23,4 @@ F:\private_wenjun.zhang\practice\JayZeeTool\JayZeeTool\bin\zh-Hans\System.Web.Mv
 F:\private_wenjun.zhang\practice\JayZeeTool\JayZeeTool\obj\Debug\JayZeeTool.dll
 F:\private_wenjun.zhang\practice\JayZeeTool\JayZeeTool\obj\Debug\JayZeeTool.pdb
 F:\private_wenjun.zhang\practice\JayZeeTool\JayZeeTool\bin\Newtonsoft.Json.xml
+F:\private_wenjun.zhang\practice\JayZeeTool\JayZeeTool\obj\Debug\JayZeeTool.csprojResolveAssemblyReference.cache
